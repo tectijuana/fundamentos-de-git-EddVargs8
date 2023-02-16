@@ -1,3 +1,9 @@
+```
+function test() {
+  console.log("Hola Mundo desde el Tec :metal: ");
+}
+```
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
