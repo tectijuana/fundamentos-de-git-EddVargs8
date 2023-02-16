@@ -1,9 +1,10 @@
-```
-function test() {
-  console.log("Hola Mundo desde el Tec :metal: ");
+``` java
+public static void main (String args []) {
+  System.out.println("Hola mundo desde el Tec 8)); 
 }
 ```
 
+:metal: :octocat:
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
